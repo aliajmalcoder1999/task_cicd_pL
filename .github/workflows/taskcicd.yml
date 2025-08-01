@@ -3,7 +3,7 @@ name: Hello World Python
 on: [push]
 
 jobs:
-  say-hello:
+  task:
     runs-on: ubuntu-latest
 
     steps:
